@@ -1,1 +1,1 @@
-# shooting-range-part-2
+# Shooting-Range-2
